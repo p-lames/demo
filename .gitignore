@@ -1,0 +1,4 @@
+/data/
+.idea
+frontend/node_modules
+api/node_modules
